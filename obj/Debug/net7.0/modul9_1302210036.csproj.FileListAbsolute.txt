@@ -31,3 +31,4 @@ D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\Jurnal\MOD
 D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\Jurnal\MOD9\modul9_1302210036\obj\Debug\net7.0\modul9_1302210036.pdb
 D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\Jurnal\MOD9\modul9_1302210036\obj\Debug\net7.0\modul9_1302210036.genruntimeconfig.cache
 D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\Jurnal\MOD9\modul9_1302210036\obj\Debug\net7.0\ref\modul9_1302210036.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\Jurnal\MOD9\modul9_1302210036\bin\Debug\net7.0\Newtonsoft.Json.dll
